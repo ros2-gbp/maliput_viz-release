@@ -2,6 +2,11 @@
 Changelog for package maliput_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.1 (2023-03-13)
+------------------
+* Evolves dependency tag to <depend> for the ignition-gui3 package. (`#22 <https://github.com/maliput/maliput_viz/issues/22>`_)
+* Contributors: Franco Cipollone
+
 0.1.0 (2022-12-13)
 ------------------
 * Adds command line support for the maliput viz app. (`#18 <https://github.com/maliput/maliput_viz/issues/18>`_)
